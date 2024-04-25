@@ -1,0 +1,17 @@
+C:\Users\xam\source\repos\TwilightToggleTray\TwilightToggleTray\bin\Debug\net6.0-windows\TwilightToggleTray.exe
+C:\Users\xam\source\repos\TwilightToggleTray\TwilightToggleTray\bin\Debug\net6.0-windows\TwilightToggleTray.deps.json
+C:\Users\xam\source\repos\TwilightToggleTray\TwilightToggleTray\bin\Debug\net6.0-windows\TwilightToggleTray.runtimeconfig.json
+C:\Users\xam\source\repos\TwilightToggleTray\TwilightToggleTray\bin\Debug\net6.0-windows\TwilightToggleTray.dll
+C:\Users\xam\source\repos\TwilightToggleTray\TwilightToggleTray\bin\Debug\net6.0-windows\TwilightToggleTray.pdb
+C:\Users\xam\source\repos\TwilightToggleTray\TwilightToggleTray\obj\Debug\net6.0-windows\TwilightToggleTray.csproj.AssemblyReference.cache
+C:\Users\xam\source\repos\TwilightToggleTray\TwilightToggleTray\obj\Debug\net6.0-windows\TwilightToggleTray.Form1.resources
+C:\Users\xam\source\repos\TwilightToggleTray\TwilightToggleTray\obj\Debug\net6.0-windows\TwilightToggleTray.csproj.GenerateResource.cache
+C:\Users\xam\source\repos\TwilightToggleTray\TwilightToggleTray\obj\Debug\net6.0-windows\TwilightToggleTray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xam\source\repos\TwilightToggleTray\TwilightToggleTray\obj\Debug\net6.0-windows\TwilightToggleTray.AssemblyInfoInputs.cache
+C:\Users\xam\source\repos\TwilightToggleTray\TwilightToggleTray\obj\Debug\net6.0-windows\TwilightToggleTray.AssemblyInfo.cs
+C:\Users\xam\source\repos\TwilightToggleTray\TwilightToggleTray\obj\Debug\net6.0-windows\TwilightToggleTray.csproj.CoreCompileInputs.cache
+C:\Users\xam\source\repos\TwilightToggleTray\TwilightToggleTray\obj\Debug\net6.0-windows\TwilightToggleTray.dll
+C:\Users\xam\source\repos\TwilightToggleTray\TwilightToggleTray\obj\Debug\net6.0-windows\refint\TwilightToggleTray.dll
+C:\Users\xam\source\repos\TwilightToggleTray\TwilightToggleTray\obj\Debug\net6.0-windows\TwilightToggleTray.pdb
+C:\Users\xam\source\repos\TwilightToggleTray\TwilightToggleTray\obj\Debug\net6.0-windows\TwilightToggleTray.genruntimeconfig.cache
+C:\Users\xam\source\repos\TwilightToggleTray\TwilightToggleTray\obj\Debug\net6.0-windows\ref\TwilightToggleTray.dll
